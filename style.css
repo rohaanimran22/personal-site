@@ -1,0 +1,33 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin-left: 30px;
+  background-color: rgb(255, 234, 210);
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  padding: 0px;
+  margin-top: 20px;
+  border: black 5px solid;
+}
+
+input {
+  background-color: transparent;
+  border: black solid 1px;
+  padding: 8px;
+  font-size: 14px;
+}
+
+button {
+  padding: 8px;
+  font-size: 14px;
+  background-color: black;
+  color: rgb(255, 234, 210);
+  border: solid 1px black;
+  cursor: pointer;
+}
